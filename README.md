@@ -1,4 +1,8 @@
-# create-svelte
+# Minimal template with Sveltekit and Tailwind css configured
+
+TODO: Integrate with a backend like Firebase or AWS Amplify with authentication. Simply git clone.
+
+## create-svelte
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
 
